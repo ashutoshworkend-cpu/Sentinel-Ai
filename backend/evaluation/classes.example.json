@@ -1,0 +1,19 @@
+{
+  "0": "person",
+  "1": "car",
+  "2": "motorcycle",
+  "3": "bird",
+  "4": "dog",
+  "5": "cat",
+  "6": "cleaning_broom",
+  "7": "mop",
+  "8": "bucket",
+  "9": "tool",
+  "10": "garden_equipment",
+  "11": "bag",
+  "12": "furniture",
+  "13": "shadow",
+  "14": "reflection",
+  "15": "partially_visible_object",
+  "16": "unusual_object"
+}
